@@ -1,6 +1,5 @@
 <h1> VulnerabilityAPI </h1>
-![Badge]([URL de la imagen generada por el servicio de alojamiento o GitHub](https://img.shields.io/badge/Framework-.NET%206-blue
-))
+[Badge](https://img.shields.io/badge/Framework-.NET%206-blue)
 ##Índice
 
 [Resumen](#Resumen)
