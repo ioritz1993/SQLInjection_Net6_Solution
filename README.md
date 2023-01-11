@@ -10,7 +10,7 @@
 - [Instrucciones](#instrucciones)
 
 ## Resumen
-blabla
+VulnerabilityAPI es un API rest la cual ha sido diseñada con unas vulnerabilidades concretas.
 
 ## Instrucciones
 1: Modificar del archivo appsettings la conexión a la base de datos. En el ejemplo: DESKTOP-7C8R4SU\\SQLEXPRESS
