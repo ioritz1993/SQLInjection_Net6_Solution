@@ -1,5 +1,3 @@
-# VulnerabilityAPI 
-
 <em> VulnerabilityAPI </em>
 Resumen
 
