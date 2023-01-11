@@ -3,7 +3,7 @@
 ##Índice
 
 [Resumen](#Resumen)
-
+[Resumen2](#Resumen2)
 
 <h2>Resumen</h2>
 blabla
@@ -23,6 +23,14 @@ blabla
 
 
 
+.
+
+
+
+
+
+
+.
 
 
 
@@ -30,22 +38,14 @@ blabla
 
 
 
+.
 
 
 
 
+.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+.
 <h2>Resumen2</h2>
