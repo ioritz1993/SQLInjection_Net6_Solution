@@ -1,7 +1,8 @@
 <h1> VulnerabilityAPI </h1>
-<p align="left">
-<img src="https://img.shields.io/badge/Framework-.NET%206-blue"><img src="https://img.shields.io/badge/Database-SQL%20Server-green">
-</p>  
+<div align="left", display="flex">
+  <img src="https://img.shields.io/badge/Framework-.NET%206-blue">
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-green">
+</div>  
   
   
 ##Índice
