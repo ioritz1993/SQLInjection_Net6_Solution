@@ -6,8 +6,8 @@
   
   
 ## Índice
-[Resumen](#resumen)
-[Instrucciones](#instrucciones)
+- [Resumen](#resumen)
+- [Instrucciones](#instrucciones)
 
 ## Resumen
 blabla
