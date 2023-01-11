@@ -2,7 +2,7 @@
 
 ##Índice
 
-*[Resumen](#Resumen)
+[Resumen](#Resumen)
 
 
 <h2>Resumen</h2>
