@@ -2,7 +2,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Framework-.NET%206-blue">
   <img src="https://img.shields.io/badge/Database-SQL%20Server-green">
-  <img src="https://img.shields.io/badge/Vulnerability-SQL%20injection%202022-yellow">
+  <img src="https://img.shields.io/badge/Vulnerability-SQL%20injection-yellow">
   <img src="https://img.shields.io/badge/Release-december%202022-black">
 </div>
   
