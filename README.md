@@ -2,7 +2,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Framework-.NET%206-blue">
   <img src="https://img.shields.io/badge/Database-SQL%20Server-green">
-  <img src="https://img.shields.io/badge/Release-december%202022-black>
+  <img src="https://img.shields.io/badge/Release-december%202022-black">
 </div>  
   
   
