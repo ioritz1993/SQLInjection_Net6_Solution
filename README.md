@@ -19,6 +19,3 @@ Las vulnerabilidades aportadas por el momento son las siguientes:</br>
 1. Modificar del archivo appsettings la conexión a la base de datos. En el ejemplo: DESKTOP-7C8R4SU\\SQLEXPRESS
 2. Ejecutamos el script que se encuentra en la carpeta Utils, Database.sql
 3. Levantamos el API con visual studio y ya estará lista para realizar pruebas
-
-En la siguiente charla, al final de la misma, se realiza una prueba del API con la vulnerabilidad SQL injection.</br>
-https://www.youtube.com/watch?v=lQqknAi-nFg
